@@ -1,0 +1,4 @@
+project_id          = "pin-km-sandbox"
+region              = "us-central1"
+bq_location         = "US"
+landing_bucket_name = "ecom-bi-landing-prod"
